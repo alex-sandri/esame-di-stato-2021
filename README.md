@@ -8,6 +8,7 @@ File vari relativi alla realizzazione dell'elaborato per l'Esame di Stato (Anno 
   - [db.ride.png](db.ride.png): Immagine del diagramma relativa all'entità `RIDE` e quelle dipendenti da essa
   - [db.user.png](db.user.png): Immagine del diagramma relativa all'entità `USER` e quelle dipendenti da essa
   - [db.wallet.png](db.wallet.png): Immagine del diagramma relativa all'entità `WALLET` e quelle dipendenti da essa
+- [gpoi.xlsx](gpoi.xlsx): Curva dei ricavi di una corsa
 - [network.drawio](network.drawio): Diagramma dell'infrastruttura di rete
   - [network.png](network.png): Immagine dell'intero diagramma
 - [spid-signin.drawio](spid-signin.drawio): Diagramma di sequenza che descrive il processo di autenticazione con [SPID](https://www.spid.gov.it/)
