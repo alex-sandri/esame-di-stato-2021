@@ -1,6 +1,6 @@
 # Esame di Stato 2021
 
-File vari relativi alla realizzazione dell'elaborato per l'Esame di Stato (Anno Scolastico 2020/2021).
+File vari relativi riguardanti l'Esame di Stato (Anno Scolastico 2020/2021).
 
 ## Indice
 
@@ -13,4 +13,5 @@ File vari relativi alla realizzazione dell'elaborato per l'Esame di Stato (Anno 
   - [network.png](network.png): Immagine dell'intero diagramma
 - [spid-signin.drawio](spid-signin.drawio): Diagramma di sequenza che descrive il processo di autenticazione con [SPID](https://www.spid.gov.it/)
   - [spid-signin.png](spid-signin.png): Immagine dell'intero diagramma
+- [the-future-of-mobility.pptx](the-future-of-mobility.pptx): Presentazione sul futuro (elettrico) della mobilità
 - [traccia-elaborato.pdf](traccia-elaborato.pdf): Traccia per l'elaborato
