@@ -1,6 +1,6 @@
 # Esame di Stato 2021
 
-File vari relativi riguardanti l'Esame di Stato (Anno Scolastico 2020/2021).
+File vari riguardanti l'Esame di Stato (Anno Scolastico 2020/2021).
 
 ## Indice
 
