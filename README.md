@@ -16,4 +16,5 @@ File vari riguardanti l'Esame di Stato (Anno Scolastico 2020/2021).
 - [spid-signin.drawio](spid-signin.drawio): Diagramma di sequenza che descrive il processo di autenticazione con [SPID](https://www.spid.gov.it/)
   - [spid-signin.png](spid-signin.png): Immagine dell'intero diagramma
 - [the-future-of-mobility.pptx](the-future-of-mobility.pptx): Presentazione sul futuro (elettrico) della mobilità
+  - [the-future-of-mobility.pdf](the-future-of-mobility.pdf): Presentazione sul futuro (elettrico) della mobilità (PDF)
 - [traccia-elaborato.pdf](traccia-elaborato.pdf): Traccia per l'elaborato
