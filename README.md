@@ -13,6 +13,9 @@ File vari riguardanti l'Esame di Stato (Anno Scolastico 2020/2021).
 - [gpoi.xlsx](gpoi.xlsx): Curva dei ricavi di una corsa
 - [network.drawio](network.drawio): Diagramma dell'infrastruttura di rete
   - [network.png](network.png): Immagine dell'intero diagramma
+- [pcto.pptx](pcto.pptx): Presentazione PCTO
+  - [pcto.pdf](pcto.pdf): Presentazione PCTO (PDF)
+  - [pcto.xlsx](pcto.xlsx): Diagramma con le ore di PCTO nel triennio
 - [spid-signin.drawio](spid-signin.drawio): Diagramma di sequenza che descrive il processo di autenticazione con [SPID](https://www.spid.gov.it/)
   - [spid-signin.png](spid-signin.png): Immagine dell'intero diagramma
 - [the-future-of-mobility.pptx](the-future-of-mobility.pptx): Presentazione sul futuro (elettrico) della mobilità
